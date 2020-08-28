@@ -1,6 +1,6 @@
 # :man_technologist: Hey there! welcome to my profile :)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajat-sawarkar-a477231a1/)]https://www.linkedin.com/in/rajat-sawarkar-a477231a1/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajat-sawarkar-a477231a1/)](https://www.linkedin.com/in/rajat-sawarkar-a477231a1/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/rajat_sawarkar)](https://t.me/rajat_sawarkar)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rajat.sawarkar@gmail.com)](mailto:rajat.sawarkar@gmail.com)
 
